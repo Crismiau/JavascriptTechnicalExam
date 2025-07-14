@@ -17,7 +17,7 @@
 - [✨ Features](#-features)
 - [🚀 Getting Started](#-getting-started)
 - [🎮 Usage](#-usage)
-- [🖥️ Customization](#-Customization) 
+- [🦻 Customization](#-Customization) 
 - [🖥️ File Overview](#-File-Overview) 
 - [🏗️ Project Structure](#️-project-structure)
 - [👥 Author](#-author)
