@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Cristian Agudelo",
+      "role": "admin",
+      "phone": "3135443356",
+      "email": "heycristian26@gmail.com",
+      "password": "123456",
+      "id": "784f"
+    },
+    {
+      "name": "Cleo Alfonso ",
+      "role": "admin",
+      "phone": "3135443356",
+      "email": "cleoalfonso@gmail.com",
+      "password": "123456",
+      "id": "6268"
+    },
+    {
+      "name": "Alberto Perez",
+      "role": "usuario",
+      "phone": "3105843823",
+      "email": "albertoperez@gmail.com",
+      "password": "123456",
+      "id": "968d"
+    },
+    {
+      "name": "Pedro Caro",
+      "email": "perocaro@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phone": "3102323212",
+      "id": "UfUcBgC"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "name": "Guatape Tour",
+      "description": "Guatape tour con amigos",
+      "date": "2023-10-01",
+      "capacity": 20
+    },
+    {
+      "id": "3",
+      "name": "Fiesta de Halloween",
+      "description": "fista en al casa de la abuela",
+      "date": "2023-10-01",
+      "capacity": 20
+    },
+    {
+      "name": "Fiesta Cumpleaños Matias Y Daniela",
+      "description": "Matias, es un hijo de la señora ferrer, se hara el cumpleaños en su casa a las 2 PM",
+      "date": "2026-01-20",
+      "capacity": 50,
+      "id": "iEhbaLA"
+    }
+  ],
+  "enrollments": [
+    {
+      "userId": "968d",
+      "enrollId": "1",
+      "id": "CQdhIji"
+    },
+    {
+      "userId": "968d",
+      "enrollId": "iEhbaLA",
+      "id": "ASFprTr"
+    },
+    {
+      "userId": "968d",
+      "enrollId": "iEhbaLA",
+      "id": "fjkli8u"
+    }
+  ]
+}
